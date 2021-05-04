@@ -1,5 +1,4 @@
 # TMDB
-TMDB API Android Kotlin
 
 Copyright [2020] [ManikandanKRM]
 
